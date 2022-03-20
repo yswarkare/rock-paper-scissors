@@ -1,0 +1,26 @@
+.rock-up {
+  content: url("./Rock.png");
+}
+
+.paper-up {
+  content: url("./Paper.png");
+}
+
+.scissor-up {
+  content: url("./Scissor.png");
+}
+
+.rock-down {
+  content: url("./Rock.png");
+  transform: rotate(180deg);
+}
+
+.paper-down {
+  content: url("./Paper.png");
+  transform: rotate(180deg);
+}
+
+.scissor-down {
+  content: url("./Scissor.png");
+  transform: rotate(180deg);
+}
